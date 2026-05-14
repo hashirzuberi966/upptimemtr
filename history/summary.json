@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Nayatel",
     "url": "https://www.nayatel.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nayatel.com.ico",
-    "slug": "google",
+    "slug": "nayatel",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2834,
-    "timeDay": 2834,
-    "timeWeek": 2834,
-    "timeMonth": 2834,
-    "timeYear": 2834,
+    "time": 2373,
+    "timeDay": 2373,
+    "timeWeek": 2373,
+    "timeMonth": 2373,
+    "timeYear": 2373,
     "dailyMinutesDown": {}
   }
 ]
