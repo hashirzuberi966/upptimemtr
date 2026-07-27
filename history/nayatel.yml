@@ -1,7 +1,7 @@
 url: https://www.nayatel.com
-status: up
-code: 200
-responseTime: 2684
-lastUpdated: 2026-07-26T23:51:40.442Z
+status: down
+code: 503
+responseTime: 1838
+lastUpdated: 2026-07-27T13:59:18.330Z
 startTime: 2026-05-14T05:00:50.517Z
 generator: Upptime <https://github.com/upptime/upptime>
