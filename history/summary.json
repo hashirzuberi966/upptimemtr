@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nayatel.com.ico",
     "slug": "nayatel",
     "status": "down",
-    "uptime": "89.76%",
+    "uptime": "88.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.90%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "89.76%",
+    "uptimeWeek": "68.59%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "88.65%",
     "time": 2620,
     "timeDay": 0,
-    "timeWeek": 2612,
-    "timeMonth": 2573,
+    "timeWeek": 2602,
+    "timeMonth": 2571,
     "timeYear": 2620,
     "dailyMinutesDown": {
       "2026-06-23": 1269,
@@ -26,7 +26,8 @@
       "2026-06-16": 50,
       "2026-07-10": 91,
       "2026-07-27": 240,
-      "2026-08-02": 117,
+      "2026-08-03": 120,
+      "2026-08-02": 1440,
       "2026-08-01": 1366
     }
   }
